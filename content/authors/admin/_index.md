@@ -51,10 +51,11 @@ profiles:
 interests:
   - Fractal Geometry
   - Geometric Measure Theory
+  - Low dimensional dynamics
 
 education:
   - area: PhD in Mathematics
-    institution: Budapest University of Technology and Economics, Doctoral School of Mathematics and Computer Science
+    institution: Doctoral School of Mathematics and Computer Science, BME
     date_start: ''
     date_end: 2024
     summary: ''
