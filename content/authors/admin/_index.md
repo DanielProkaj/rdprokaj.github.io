@@ -79,7 +79,7 @@ work:
     company_url: https://unt.edu/
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 'Present'
+    date_end: ''
     summary: ''
   - position: Assistant Research Fellow
     company_name: HUN-REN Alfréd Rényi Institute of Mathematics
