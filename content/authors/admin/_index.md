@@ -88,6 +88,12 @@ work:
     date_start: 2022-09-01
     date_end: 2024-08-31
     summary: ''
+  - position: Instructor
+    company_name: Budapest University of Technology and Economics
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2024-08-31
+    summary: ''
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
