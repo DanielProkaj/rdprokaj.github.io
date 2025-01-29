@@ -1,8 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.142.0'
-# It was 0.136.5, but let's check if 0.142.0 can make it work
+  WC_HUGO_VERSION: '0.136.5'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
