@@ -36,7 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: "R. Daniel Prokaj"
-    highlight_active_link: true
+#    highlight_active_link: true
 
 # Site footer
 footer:
