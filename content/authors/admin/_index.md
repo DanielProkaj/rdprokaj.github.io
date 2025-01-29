@@ -57,7 +57,7 @@ education:
   - area: PhD in Mathematics
     institution: Doctoral School of Mathematics and Computer Science, BME
     date_start: ''
-    date_end: 2024
+    date_end: 2024-06-31
     summary: ''
     button:
       text: 'Read Dissertation'
@@ -65,12 +65,12 @@ education:
   - area: MSc in Applied Mathematics
     institution: Budapest University of Technology and Economics
     date_start: ''
-    date_end: 2020-12-31
+    date_end: 2018-06-31
     summary: ''
   - area: BSc in Mathematics
     institution: Budapest University of Technology and Economics
     date_start: ''
-    date_end: 2016
+    date_end: 2016-16-31
     summary: ''
     
 work:
